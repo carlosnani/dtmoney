@@ -4,9 +4,8 @@ import { App } from './App';
 import { createServer, Model } from 'miragejs';
  
 createServer({
-
-  models: {
-    transactions: Model,   
+  models: { 
+    transaction: Model,   
   },
   
   seeds(server) {
@@ -35,9 +34,7 @@ createServer({
   routes() {
     this.namespace = 'api';
     this.get('/transactions', () =>  {
-
-      return this.schema.all('transactions')
-
+      return this.schema.all('transaction')
     });
 
     this.post('/transactions', (schema, request ) => {
