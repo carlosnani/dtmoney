@@ -17,7 +17,7 @@ interface Transaction {
 //     category: string;
 // }
 
-// type TransactionsInput = Pick<Transaction, 'title' | 'amount' | 'type' | 'category' >
+//type TransactionsInput = Pick<Transaction, 'title' | 'amount' | 'type' | 'category' >
 
 type TransactionsInput = Omit<Transaction, "id" | "createdAt">;
 
