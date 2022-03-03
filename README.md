@@ -4,10 +4,10 @@ Essa é uma aplicação de controle financeiro feita em React. Esse é o segundo
 
 This is an application to control finance made in React. This is the second Project from **Ignite** course in the **RocketSeat**. This application front-end was made with some concepts and tools of the **React** ecosystem. Some they are Styled Components, MirageJS, Context API, hooks, Axios and much more.
 
-![The app ](https://github.com/carlosnani/dtmoney/blob/master/images/DTMoney.jpg?raw=true)
-
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+
+![The app ](https://github.com/carlosnani/dtmoney/blob/master/images/DTMoney.jpg?raw=true)
 
 ### Como usar?
 - 1 Download ou clone o repositório.
