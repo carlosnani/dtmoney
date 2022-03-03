@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+# DTMoney
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Essa é uma aplicação de controle financeiro feita em React. Esse é o segundo projeto do curso  **Ignite** da  **RocketSeat**. Nessa aplicação front-end foi utilizando conceitos e ferramentas importantes do ecossistema do **React**. Algumas delas são Styled Components, MirageJS, Context API, hooks, Axios e muito mais.
 
-## Available Scripts
+This is an application to control finance made in React. This is the second Project from **Ignite** course in the **RocketSeat**. This application front-end was made with some concepts and tools of the **React** ecosystem. Some they are Styled Components, MirageJS, Context API, hooks, Axios and much more.
 
-In the project directory, you can run:
+![The app ](https://github.com/carlosnani/dtmoney/blob/master/images/DTMoney.jpg?raw=true)
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Como usar?
+- 1 Download ou clone o repositório.
+- 2 Rode o comando yarn install.
+- 3 Na pasta do projeto, você pode rodar "yarn start".
 
-### `yarn test`
+### How to use?
+- 1 Download or clone the repository.
+- 2 Run the commad yarn install.
+- 3 In the project directory, you can run ‘yarn start`.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### O que eu aprendi fazendo esse projeto:
+- [x] Usar os hooks como useState, useEffect e o useContext.
+- [x] Comecei a usar Typescript.
+- [x] Aprendi mais sobre algumas bibliotecas como Styled Components, MirageJS, Context API, hooks, Axios.
+- [x] Aprendi que eu preciso melhorar meu inglês. :unamused:
 
-### `yarn build`
+###What I learned doing this project:
+- [x] Use hooks like useState, useEffect and useContext.
+- [x] I started using Typescript.
+- [x] I learned more about some libs like Styled Components, MirageJS, Context API, hooks, Axios.
+- [x] I learned that I need to improve my English. :unamused:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![App in Action](https://github.com/carlosnani/dtmoney/blob/master/images/DT-money%20-%20React%20App.gif?raw=true)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
